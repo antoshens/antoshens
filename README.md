@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
-<h3 align="center">A .NET Full stack developer (+ Angular). And a huge fan of Data Science and ML algorithms.</h3>
+<h3 align="center">A .NET Full stack developer (+ Angular) from Ukraine :ukraine:. And a huge fan of Data Science and ML algorithms.</h3>
 
 - 🌱 I’m currently learning **Python For DS, Deep learning, Decision making methods**
 
