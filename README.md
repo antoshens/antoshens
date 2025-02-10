@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **Python For DS, Deep learning, Decision making methods**
 
-- 💬 Ask me about **.NET Full Framework/Core, Angular, JS/TS**
+- 💬 Ask me about **.NET, Python, Angular, React, JS/TS**
 
 - 📫 How to reach me **anthonygoncharenko@gmail.com**
-
-- ⚡ Fun fact **Pigeons - they are scarry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
